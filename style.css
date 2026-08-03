@@ -1,3 +1,10 @@
 header{
-    background-color: rgb(76, 10, 138);
+    background-color: rgb(55, 64, 102);
+    color:rgb(119, 197, 221);
+    text-align: center;
+}
+main{
+    background-color: rgb(83, 150, 226);
+    color:aqua;
+    text-align: center;
 }
